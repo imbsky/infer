@@ -1,11 +1,12 @@
-.DS_STORE
-_site/
-Gemfile
-Gemfile.lock
-*.swo
-*.swp
-_site
-.sass-cache
-*.psd
-*~
+.DS_Store
 
+node_modules
+
+lib/core/metadata.js
+lib/core/MetadataBlog.js
+
+website/translated_docs
+website/build/
+website/yarn.lock
+website/node_modules
+website/i18n/*
